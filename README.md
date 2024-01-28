@@ -65,7 +65,7 @@
 
 <p align="center">
 <a href="https://github.com/MarckvsPerez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarckvsPerez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarckvsPerez&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarckvsPerez&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarckvsPerez&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
