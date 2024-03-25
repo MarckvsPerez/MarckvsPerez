@@ -42,7 +42,7 @@
         <br>
         <h3 align="center">GymChunin</h3>
         <div align="center">
-          <a href="https://gymchunin.netlify.app/" target="_blank"><img src="https://imgur.com/CmzW2f5.png" width="400" alt="GymChunin"></a>
+          <a href="https://gymchunin.netlify.app/" target="_blank"><img src="https://i.ibb.co/427DpFL/image.png" width="400" alt="GymChunin"></a>
           <p>
             <a href="https://github.com/MarckvsPerez/GymChuninServer"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&link=https://github.com/MarckvsPerez/GymChuninServer" alt="Code" /></a>
             <a href="https://github.com/MarckvsPerez/GymChuninClient"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&link=https://github.com/MarckvsPerez/GymChuninClient" alt="Code" /></a>
