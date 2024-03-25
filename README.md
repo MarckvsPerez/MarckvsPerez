@@ -27,7 +27,7 @@
         <br>
         <h3 align="center">My personal website</h3>
         <div align="center">
-          <a href="https://github.com/MarckvsPerez/WebPersonal3D" target="_blank"><img src="https://imgur.com/mmmQzmG" width="400" alt="My web personal"></a>
+          <a href="https://github.com/MarckvsPerez/WebPersonal3D" target="_blank"><img src="https://postimg.cc/sM43Jskg" width="400" alt="My web personal"></a>
           <p>
             <a href="https://github.com/MarckvsPerez/WebPersonal3D"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&link=https://github.com/MarckvsPerez/WebPersonal3D" alt="Code" /></a>
             <a href="https://www.marc-perez.com/"><img src="https://img.shields.io/badge/Web-5d0085?style=for-the-badge&logo=none&link=https://www.marc-perez.com/" alt="Web" /></a>
