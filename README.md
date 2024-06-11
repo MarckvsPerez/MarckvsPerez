@@ -1,7 +1,13 @@
 <div align="center">
-<h1 align="center">Hi, I am <a href="https://www.marc-perez.com/">Marc Pérez</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+  <h1 align="center">
+    Hi, I am <a href="https://www.marc-perez.com/">Marc Pérez</a>
+    <img
+      src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
+      width="30"
+    />
+  </h1>
 </div>
-<img src="https://imgur.com/GJGioCS.png">
+<img src="https://i.ibb.co/tbKH5B9/Dise-o-sin-t-tulo.png" />
 
 ## 💻 About Me
 
@@ -22,50 +28,118 @@
 ## 🛠️ My Projects Showcase
 
 <table>
+  <tr>
+    <td width="50%">
+      <br />
+      <h3 align="center">My personal website</h3>
+      <div align="center">
+        <a href="https://github.com/MarckvsPerez/WebPersonal3D" target="_blank"
+          ><img
+            src="https://i.ibb.co/tPkJxvb/Captura-de-pantalla-2024-06-11-200027.png"
+            alt="Captura-de-pantalla-2024-06-11-200027"
+            border="0"
+            width="400"
+        /></a>
+        <p>
+          <a href="https://github.com/MarckvsPerez/WebPersonal3D"
+            ><img
+              src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&link=https://github.com/MarckvsPerez/WebPersonal3D"
+              alt="Code"
+          /></a>
+          <a href="https://www.marc-perez.com/"
+            ><img
+              src="https://img.shields.io/badge/Web-5d0085?style=for-the-badge&logo=none&link=https://www.marc-perez.com/"
+              alt="Web"
+          /></a>
+        </p>
+        <p>
+          Explore my world of creativity and technology, crafted using the
+          dynamic duo of React and Three.js. Dive into my projects and skills in
+          a three-dimensional experience!
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <br />
+      <h3 align="center">GymChunin</h3>
+      <div align="center">
+        <a href="https://gymchunin.netlify.app/" target="_blank"
+          ><img
+            src="https://i.ibb.co/X2HH3Bt/Captura-de-pantalla-2024-06-11-195822.png"
+            width="400"
+            alt="GymChunin"
+        /></a>
+        <p>
+          <a href="https://github.com/MarckvsPerez/GymChuninServer"
+            ><img
+              src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&link=https://github.com/MarckvsPerez/GymChuninServer"
+              alt="Code"
+          /></a>
+          <a href="https://github.com/MarckvsPerez/GymChuninClient"
+            ><img
+              src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&link=https://github.com/MarckvsPerez/GymChuninClient"
+              alt="Code"
+          /></a>
+          <a href="https://gymchunin.netlify.app/"
+            ><img
+              src="https://img.shields.io/badge/Web-5d0085?style=for-the-badge&logo=none&link=https://gymchunin.netlify.app/"
+              alt="Web"
+          /></a>
+        </p>
+        <p>
+            Welcome to GymChunin, my web application meticulously built with React and powered by a Node.js REST API.  Dive into a world where fitness meets technology!
+        </p>
+      </div>
+    </td>
+  </tr>
     <tr>
-      <td width="50%">
-        <br>
-        <h3 align="center">My personal website</h3>
-        <div align="center">
-          <a href="https://github.com/MarckvsPerez/WebPersonal3D" target="_blank"><img src="https://ibb.co/FqND0yB" width="400" alt="My web personal"></a>
-          <p>
-            <a href="https://github.com/MarckvsPerez/WebPersonal3D"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&link=https://github.com/MarckvsPerez/WebPersonal3D" alt="Code" /></a>
-            <a href="https://www.marc-perez.com/"><img src="https://img.shields.io/badge/Web-5d0085?style=for-the-badge&logo=none&link=https://www.marc-perez.com/" alt="Web" /></a>
-          </p>
-          <p>
-            Explore my world of creativity and technology, crafted using the dynamic duo of React and Three.js. Dive
-            into my projects and skills in a three-dimensional experience!
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <br>
-        <h3 align="center">GymChunin</h3>
-        <div align="center">
-          <a href="https://gymchunin.netlify.app/" target="_blank"><img src="https://ibb.co/5MZZnDL" width="400" alt="GymChunin"></a>
-          <p>
-            <a href="https://github.com/MarckvsPerez/GymChuninServer"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&link=https://github.com/MarckvsPerez/GymChuninServer" alt="Code" /></a>
-            <a href="https://github.com/MarckvsPerez/GymChuninClient"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&link=https://github.com/MarckvsPerez/GymChuninClient" alt="Code" /></a>
-            <a href="https://gymchunin.netlify.app/"><img src="https://img.shields.io/badge/Web-5d0085?style=for-the-badge&logo=none&link=https://gymchunin.netlify.app/" alt="Web" /></a>
-          </p>
-          <p>
-            Explore my world of creativity and technology, crafted using the dynamic duo of React and Three.js. Dive
-            into my projects and skills in a three-dimensional experience!
-          </p>
-        </div>
-  </table>
-                                                                               
-</div>
-<br>
-                                                                           
-</div>
+    <td width="50%">
+      <br />
+      <h3 align="center">Essence Barber</h3>
+      <div align="center">
+        <a href="https://essencebarber.es/" target="_blank"
+          ><img
+            src="https://i.ibb.co/2NB1BYQ/Captura-de-pantalla-2024-06-11-202306.png"
+            alt="Essence barber site"
+            border="0"
+            width="400"
+        /></a>
+        <p>
+          <a href="https://github.com/MarckvsPerez/EssenceBarber"
+            ><img
+              src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&link=https://github.com/MarckvsPerez/EssenceBarber"
+              alt="Code"
+          /></a>
+          <a href="https://essencebarber.es/"
+            ><img
+              src="https://img.shields.io/badge/Web-5d0085?style=for-the-badge&logo=none&link=https://essencebarber.es/"
+              alt="Web"
+          /></a>
+        </p>
+        <p>
+            Welcome to EssenceBarber, a sleek web application crafted with React. Powered by Google Cloud and Firebase, offer seamless content management and a smooth, modern interface. 
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <br />
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/MarckvsPerez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarckvsPerez&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarckvsPerez&layout=compact&langs_count=8&theme=nightowl"/>
-</a>
+  <a href="https://github.com/MarckvsPerez">
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarckvsPerez&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarckvsPerez&layout=compact&langs_count=8&theme=nightowl"
+    />
+  </a>
 </p>
