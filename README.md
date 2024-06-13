@@ -135,11 +135,11 @@
   <a href="https://github.com/MarckvsPerez">
     <img
       height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarckvsPerez&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats-ten-swart-33.vercel.app/api?username=MarckvsPerez&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"
     />
     <img
       height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarckvsPerez&layout=compact&langs_count=8&theme=nightowl"
+      src="https://github-readme-stats-ten-swart-33.vercel.app/api/top-langs/?username=MarckvsPerez&layout=compact&theme=nightowl"
     />
   </a>
 </p>
