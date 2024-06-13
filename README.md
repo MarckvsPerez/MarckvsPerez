@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    Hi, I am <a href="https://www.marc-perez.com/">Marc Pérez</a>
+    Hi, I am <a href="https://www.marc-perez.com/">Marc Pérez Salat</a>
     <img
       src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
       width="30"
